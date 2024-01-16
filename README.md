@@ -6,6 +6,7 @@
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+
 - 🌱 I’m Done learning **Diploma in Software Engineering (Full Time)**
 
 - 🌱 I’m currently learning **Higher National Diploma in Software Engineering (Full Time)**
@@ -29,6 +30,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiBandara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiBandara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibandara" alt="dibandara" /></a> </p>
 
 
 
